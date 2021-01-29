@@ -888,6 +888,7 @@
 -   [apiTrashbin/trashbinRestore.feature:276](https://github.com/owncloud/core/blob/master/tests/acceptance/features/apiTrashbin/trashbinRestore.feature#L276)
 -   [apiTrashbin/trashbinRestore.feature:292](https://github.com/owncloud/core/blob/master/tests/acceptance/features/apiTrashbin/trashbinRestore.feature#L292)
 -   [apiTrashbin/trashbinRestore.feature:293](https://github.com/owncloud/core/blob/master/tests/acceptance/features/apiTrashbin/trashbinRestore.feature#L293)
+-   [apiTrashbin/trashbinRestore.feature:334](https://github.com/owncloud/core/blob/master/tests/acceptance/features/apiTrashbin/trashbinRestore.feature#L334)
 
 ### [href in trashbin PROPFIND response is wrong](https://github.com/owncloud/ocis/issues/1120)
 ### [trash-bin restore move does not send back Etag and other headers](https://github.com/owncloud/ocis/issues/1121)
